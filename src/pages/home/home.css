@@ -1,0 +1,36 @@
+footer {
+  background: rgb(24, 221, 198);
+}
+.footer .container_footer {
+  display: flex;
+  justify-content: center;
+}
+.footer .container_footer .containet {
+  display: inline-block;
+}
+.footer .container_footer .containet .mail {
+  width: 20rem;
+}
+.footer .container_footer .containet .mail input {
+  width: 70%;
+}
+.footer .container_footer .containet .mail button {
+  width: 25%;
+}
+.footer .container_footer .containet .rows {
+  display: inline-block;
+}
+.footer .container_footer .containet .rows .row_2 {
+  display: flex;
+  justify-content: space-between;
+}
+.homemain{
+  display: flex;
+  justify-content: space-between;
+}
+.normal{
+  width: 65%;
+}
+.modal{
+  height: 100vh;
+}

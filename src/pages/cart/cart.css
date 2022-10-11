@@ -1,0 +1,14 @@
+.cart .cart_element img {
+  width: 4rem;
+  height: 7rem;
+}
+.cart {
+  width: 100%;
+
+  margin: 1.5rem;
+}
+.cart .cart_element {
+  background: rgb(196, 189, 189);
+  display: flex;
+  justify-content: space-around;
+}
